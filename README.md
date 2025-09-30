@@ -48,7 +48,4 @@
 </br>
 
 
-<div align="center">
-  <img height="200" src="https://i.redd.it/x1202ywz4bb71.gif"  />
-</div>
 
