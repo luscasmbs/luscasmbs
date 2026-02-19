@@ -38,7 +38,7 @@
 
 ###
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github&fontFamily=&preferLogin=false">    <img  alt="luscasmbs's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/luscasmbs?cardType=level&theme=github&fontFamily=&preferLogin=false" />  </a>
+<img  alt="luscasmbs's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/luscasmbs?cardType=level&theme=github&fontFamily=&preferLogin=false" />  </a>
  
 </div>
 
