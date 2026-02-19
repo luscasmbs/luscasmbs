@@ -38,17 +38,8 @@
 
 ###
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=luscasmbs&show_icons=true&theme=dracula"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=luscasmbs&layout=compact&langs_count=5&card_width=320&theme=dracula"
-    height="150"
-    alt="Top languages"
-  />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github&fontFamily=&preferLogin=false">    <img  alt="luscasmbs's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/luscasmbs?cardType=level&theme=github&fontFamily=&preferLogin=false" />  </a>
+ 
 </div>
 
 
