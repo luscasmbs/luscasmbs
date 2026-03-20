@@ -44,7 +44,7 @@
 
 <h2 align="left">Minhas estatísticas</h2>
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luscasmbs&show_icons=true&theme=github)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luscasmbs&show_icons=true&theme=github" />
