@@ -44,6 +44,7 @@
 
 <h2 align="left">Minhas estatísticas</h2>
 
+
 <p align="left">
-  <img alt="luscasmbs's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/luscasmbs?cardType=level&theme=github&fontFamily=&preferLogin=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luscasmbs&show_icons=true&theme=github" />
 </p>
