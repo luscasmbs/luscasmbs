@@ -84,12 +84,3 @@ Atualmente desenvolvendo projetos envolvendo software, automação e inovação 
 
 ---
 
-<h2 align="left">📫 Contato</h2>
-
-<p align="left">
-Se quiser trocar ideias sobre tecnologia, projetos ou desenvolvimento:
-<br><br>
-📧 Seu email aqui
-<br>
-💼 LinkedIn aqui
-</p>
