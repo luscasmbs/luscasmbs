@@ -79,7 +79,8 @@ Atualmente desenvolvendo projetos envolvendo software, automação e inovação 
 <h2 align="left">📊 Estatísticas</h2>
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luscasmbs&show_icons=true&theme=github_dark&hide_border=true)
+[[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luscasmbs&show_icons=true&theme=github_dark&hide_border=true)
+](https://github-readme-stats.vercel.app/api?username=luscasmbs&show_icons=true&theme=github_dark&hide_border=true)](https://github-readme-stats.vercel.app/api?username=luscasmbs&show_icons=true&theme=github_dark&hide_border=true)
 </p>
 
 ---
