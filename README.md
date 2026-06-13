@@ -63,19 +63,17 @@ Atualmente desenvolvendo projetos envolvendo software, automação e inovação 
 </p>
 
 ---
+<h2 align="left">📊 Estatísticas</h2>
 
-<h2 align="left">📊 Estatísticas e linguagens</h2>
-
-<div align="center">
+<p align="center">
   <img
-    height="170"
+    width="48%"
     src="https://github-readme-stats.vercel.app/api?username=luscasmbs&show_icons=true&theme=github_dark&hide_border=true"
   />
-
   <img
-    height="170"
+    width="48%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscasmbs&layout=compact&langs_count=8&theme=github_dark&hide_border=true&custom_title=Tecnologias"
   />
-</div>
+</p>
 ---
 
